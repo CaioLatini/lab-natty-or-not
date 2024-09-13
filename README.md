@@ -1,16 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Entrevista com a Dra. Ana
 
 ## 📒 Descrição
-Criei uma pequena intrevista com uma especialista 
+Criei uma pequena intrevista enriquecedora com uma especialista em educação de adultos
 
 ## 🤖 Tecnologias Utilizadas
-Chat bot da Microsoft (Bing),  
+Chat bot da Microsoft (Bing) e texto em voz com HeyGen + geração de video com avatar.
 
 ## 🧐 Processo de Criação
-Iniciei pedindo ao chat bot que me listasse assuntos em que ele se considerava especialista, escolhi um dos assuntos e solicitei que simulasse uma entrevista entre um especialista em educação e aprendizagem de adultos.  
+Iniciei pedindo ao chat bot que me listasse assuntos em que ele se considerava especialista, escolhi um dos assuntos e solicitei que simulasse uma entrevista entre um especialista em educação e aprendizagem de adultos.  Feito o script da entrevista utilizei o HeyGen para gerar um video com audio dessa entrevista.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultando em uma entrevista relativamente natural entre duas mulheres, jornalista e Dra especialista.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Qualidade surpriendente, entretanto ainda é possível perceber um pouco da falta de naturalidade. Percebe-se isso na falta de fluídes em alguns pontos da fala, além da movimentação do avatar.
