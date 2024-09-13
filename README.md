@@ -1,17 +1,18 @@
 # Entrevista com a Dra. Ana
 
 ## 📒 Descrição
-Criei uma pequena intrevista enriquecedora com uma especialista em educação de adultos
+Criei uma pequena entrevista enriquecedora com uma especialista em educação de adultos.
 
 ## 🤖 Tecnologias Utilizadas
-Chat bot da Microsoft (Bing) e texto em voz com HeyGen + geração de video com avatar.
+Chatbot da Microsoft (Bing) e texto em voz com HeyGen + geração de vídeo com avatar.
 
 ## 🧐 Processo de Criação
-Iniciei pedindo ao chat bot que me listasse assuntos em que ele se considerava especialista, escolhi um dos assuntos e solicitei que simulasse uma entrevista entre um especialista em educação e aprendizagem de adultos.  Feito o script da entrevista utilizei o HeyGen para gerar um video com audio dessa entrevista.
+Iniciei pedindo ao chatbot que listasse assuntos nos quais se considerava especialista. Escolhi um dos temas e solicitei que simulasse uma entrevista entre uma especialista em educação e aprendizagem de adultos. Com o script da entrevista pronto, utilizei o HeyGen para gerar um vídeo com áudio dessa entrevista.
 
 ## 🚀 Resultados
-Resultando em uma entrevista relativamente natural entre duas mulheres, jornalista e Dra especialista.
-<iframe width="560" height="315" src="https://app.heygen.com/embeds/10af257906c942bfaaf705659317a8e7" title="HeyGen video player" frameborder="0" allow="encrypted-media; fullscreen;" allowfullscreen></iframe>
+O resultado foi uma entrevista relativamente natural entre duas mulheres: uma jornalista e a Dra. especialista.
 
-## 💭 Reflexão (Opcional)
-Qualidade surpriendente, entretanto ainda é possível perceber um pouco da falta de naturalidade. Percebe-se isso na falta de fluídes em alguns pontos da fala, além da movimentação do avatar.
+### [🎬 Assista ao vídeo](https://app.heygen.com/share/58c19aff131e483a8bf88d11fabfa75a) 
+
+## 💭 Reflexão
+A qualidade é surpreendente, desde a criação do diálogo, conversão de texto em áudio, até a movimentação dos avatares. No entanto, ainda é possível perceber uma certa falta de naturalidade. Isso se evidencia na fluidez em alguns pontos da fala, além da movimentação do avatar, que, em alguns momentos, não parece natural ou condizente com o discurso.
